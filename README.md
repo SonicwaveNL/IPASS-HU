@@ -1,14 +1,17 @@
 # WinMat 
 C++ Matrix window library with MAX7219 implementation.
 
-## Usage
-This library is used to create 
-
 ## Installation
-Clone the repository to the desire location.
+Clone the repository to the desire location and execute the following command:
 
 ```bash
-git clone https://github.com/sonicwavenl/
+git clone https://github.com/sonicwavenl/IPASS-HU
+```
+
+## Documentation
+Go to the [doxygen folder](https://github.com/SonicwaveNL/IPASS-HU/doxygen) and generate the documentation by using the following command:
+```bash
+doxygen Doxygen
 ```
 
 ## Dependencies
