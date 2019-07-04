@@ -1,4 +1,4 @@
-# WinMat 
+# IPASS Project - WINMAT
 C++ Matrix window library with MAX7219 implementation.
 
 ## Installation
