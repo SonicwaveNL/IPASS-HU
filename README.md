@@ -9,7 +9,7 @@ git clone https://github.com/sonicwavenl/IPASS-HU
 ```
 
 ## Documentation
-Go to the [doxygen folder](https://github.com/SonicwaveNL/IPASS-HU/doxygen) and generate the documentation by using the following command:
+Go to the [doxygen folder](https://github.com/SonicwaveNL/IPASS-HU/tree/master/doxygen) and generate the documentation by using the following command:
 ```bash
 doxygen Doxygen
 ```
