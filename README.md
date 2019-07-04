@@ -2,7 +2,7 @@
 C++ Matrix window library with MAX7219 implementation.
 
 ## Installation
-Clone the repository to the desire location and execute the following command:
+Clone the repository to the desire location by executing the following command:
 
 ```bash
 git clone https://github.com/sonicwavenl/IPASS-HU
